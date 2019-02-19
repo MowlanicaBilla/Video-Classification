@@ -4,7 +4,7 @@
 
 Ever heard of a flip book? If you haven’t, you’re missing out! Check out the one below:
 
-![Source:Giphy.com](https://static1.squarespace.com/static/52e9da97e4b042713150eba7/t/54d9b16fe4b0234fb2e90283/1423552912192/)
+![Source:Giphy.com](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFv8M37eMPaPl0m9qupKPpKHWEdA2W_W3GT_NS7-PJhFf0W_dU)
 
 We have a different image on each page of the book, and as we flip these pages, we get an animation of a shark dancing. You could even call it a kind of video. The visualization gets better the  faster we flip the pages. In other words, this visual is a collection of different images arranged in a particular order.
 
