@@ -19,6 +19,6 @@ Remember, our challenge here is to calculate the screen time of both Tom and Jer
 5. Calculate the screen time of both TOM and JERRY
 
 
-References :
+**References** :
 1. https://www.analyticsvidhya.com/blog/2018/09/deep-learning-video-classification-python/
 2. https://towardsdatascience.com/introduction-to-video-classification-6c6acbc57356
